@@ -5,8 +5,6 @@ tapia;
 
 villaseñor;
 
-rebeca;
-
 paulo;
 
 escobar;
